@@ -1,0 +1,18 @@
+JS
+
+Ctrl+alt+L = format file
+Ctrl+alt+O = optimize imports
+Ctrl+shift+enter = finish statement
+Ctrl+shift+f10 = execute current file
+Ctrl+shift+N = open file in project by file name
+Ctrl+N = open class in project by class name
+
+
+
+SQL
+
+Ctrl+Enter = run current statement
+
+to run a MySQL db:
+  cd ~/projects/mysql-database
+  docker-compose up
