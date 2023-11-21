@@ -16,3 +16,7 @@ Ctrl+Enter = run current statement
 to run a MySQL db:
   cd ~/projects/mysql-database
   docker-compose up
+
+
+Git
+ctrl+t = pull changes
