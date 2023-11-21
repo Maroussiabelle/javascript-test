@@ -25,11 +25,10 @@ let Y = 4;
 for (let i = Y; i >=1; i--) {
     let row = "";
     for (let j = i; j >= 1; j--) {
-    row = row + j + '';
+    row = row + j + ' ';
     }
     console.log(row);
 }
-
 
 
 
