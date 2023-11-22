@@ -1,5 +1,6 @@
 
 
+
 function writeNote() {
 
     console.log("Терпение и труд");
