@@ -16,6 +16,11 @@ let bankAccount = {
 
 //const amount = Number(prompt());
 // const choice = prompt();
+
+//const amount = 200;
+///const choice = "снять";
+
+
 const amount = 600;
 const choice = "снять";
 if (choice === "внести") {
