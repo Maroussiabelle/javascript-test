@@ -17,7 +17,6 @@ Sample Output 1:
 
 */
 
-
 const itemName = prompt();
 const itemPrice = Number(prompt());
 const quantity = Number(prompt());
