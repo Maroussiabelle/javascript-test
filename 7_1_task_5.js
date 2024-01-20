@@ -27,3 +27,6 @@ function calculateTotal(itemName, itemPrice, quantity){
 
 const message = calculateTotal(itemName, itemPrice, quantity);
 console.log(`Вы выбрали "${itemName}" по цене ${itemPrice} рублей за штуку.\nКоличество: ${quantity} шт.\nИтого: ${message} рублей.`);
+
+const str = "n\\n";
+console.log(str.length);
