@@ -26,4 +26,19 @@ Sample Output 3:
  */
 //const sentence = prompt();
 let sentence = "aaa";
-isNaN(sentence) ? console.log("Ошибка: Введите ваш возраст"): (sentence < 18) ? console.log("Доступ запрещен"): (sentence <= 65) ? console.log("Доступ разрешен") : console.log("Доступ запрещен");
+if (isNaN(sentence)) {
+    console.log("Ошибка: Введите ваш возраст");
+} else {
+    if (sentence < 18) {
+        console.log("Доступ запрещен");
+    } else {
+        if (sentence <= 65) {
+            console.log("Доступ разрешен");
+        } else {
+            console.log("Доступ запрещен");
+        }
+    }
+}
+
+
+
