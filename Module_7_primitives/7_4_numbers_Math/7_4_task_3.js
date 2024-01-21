@@ -8,4 +8,8 @@
 
 number = 16;
 
-console.log(Math.sqrt(Math.abs(number)));
+console.log(`Квадратный корень из ${Math.abs(number)} равен ${Math.sqrt(Math.abs(number))}`);
+
+
+
+
